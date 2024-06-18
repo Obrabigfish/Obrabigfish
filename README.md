@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Obrabigfish
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Open projects
-- 📫 How to reach me @Obrabigfish
+- 👋 Hi, I’m Bryan Onyango
+- 👀 I’m a Software engineer and full-stack developer. i love python
+- 📫 obrabigfish1@gmail.com
+- 
